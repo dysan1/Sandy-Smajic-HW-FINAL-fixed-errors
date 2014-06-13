@@ -1,0 +1,14 @@
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.exe.config
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.csprojResolveAssemblyReference.cache
+C:\Users\haris_000\Desktop\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.exe.config
+C:\Users\haris_000\Desktop\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.csprojResolveAssemblyReference.cache
+C:\Users\haris_000\Desktop\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.exe
+C:\Users\haris_000\Desktop\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.pdb
+C:\Users\haris_000\Desktop\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.exe
+C:\Users\haris_000\Desktop\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.pdb
+C:\Users\Dysan Smajic\Desktop\gagagag\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.exe.config
+C:\Users\Dysan Smajic\Desktop\gagagag\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.exe
+C:\Users\Dysan Smajic\Desktop\gagagag\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.pdb
+C:\Users\Dysan Smajic\Desktop\gagagag\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.exe
+C:\Users\Dysan Smajic\Desktop\gagagag\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\bin\Debug\Tuzla Final Homework Sandy Smajic.pdb
+C:\Users\Dysan Smajic\Desktop\gagagag\Tuzla Final Homework Sandy Smajic\Tuzla Final Homework Sandy Smajic\obj\Debug\Tuzla Final Homework Sandy Smajic.csprojResolveAssemblyReference.cache
